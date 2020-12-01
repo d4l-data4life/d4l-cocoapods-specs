@@ -1,6 +1,4 @@
 # d4l-cocoapods-specs
-
-# cocoapods-specs
 CocoaPods specs repository
 
 ## Usage
